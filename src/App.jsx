@@ -1,5 +1,11 @@
+
+
+import Footer from "./Footer"
+import Banner from "./components/Banner"
 import NavBar from "./components/NavBar"
 import ItemListContainer from "./components/itemListContainer"
+
+
 
 
 
@@ -10,6 +16,9 @@ function App() {
     <>
       <NavBar />
       <ItemListContainer mensaje={"ENVIOS A TODO EL PAIS GRATIS A PARTIR DE LOS $300.000 "} />
+      <Banner />
+      <Footer />
+     
     </>
   )
 }
