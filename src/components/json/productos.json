@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "nombre": "CRIO IONTOFORESIS",
+      "precio": "$969,300.00",
+      "descripcion": "Mesoterapia indolora por medio de crio electroforesis o jeringa virtual. Cabezal que produce frío o calor en combinación con corriente galvánica polarizada automáticamente.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/crio-iontoforesis.jpg?fit=800%2C585&ssl=1",
+      "stock": 10,
+      "categoria": "Electromedicina"
+    },
+    {
+      "id": 2,
+      "nombre": "CAVITACIÓN ULTRASÓNICA",
+      "precio": "$1,611,898.65",
+      "descripcion": "Equipo generador de ultrasonido de 38 kHz. Potencia 70W. Control de intensidad. Modo continuo o intermitente. Frecuencia fija o modulada. Display LED color de 5.7″ sensible al tacto Cavitex es el más poderoso equipo de la familia Texel, permite obtener en poco tiempo el mejor resultado en tratamientos anti-celulíticos y adiposidad localizada.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/cavitacion-ultrasonica.jpg?fit=800%2C585&ssl=1",
+      "stock": 10,
+      "categoria": "Electromedicina"
+    },
+    {
+      "id": 3,
+      "nombre": "LIPÓLISIS LÁSER",
+      "precio": "$4,750,647.30",
+      "descripcion": "Emisión láser de bajo nivel. Tecnología LLLT. 4 cabezales de 12 emisores cada uno. Indicador de Joules en tiempo real. Display LED color de 5,7″ sensible al tacto.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/lipotex-lipolisis-laser.jpg?fit=800%2C585&ssl=1",
+      "stock": 10,
+      "categoria": "Electromedicina"
+    },
+    {
+      "id": 4,
+      "nombre": "Botella deportiva con pico D3",
+      "precio": "$10,550.00",
+      "descripcion": "Complemento ideal para hidratación en movimiento Pico anti-derrames Mango ergonómico Grip antideslizante para un agarre seguro Tapa a rosca Capacidad 600ml.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/Kinemed-d3-Tape-Botellas-2.jpg?fit=1200%2C1200&ssl=1",
+      "stock": 10,
+      "categoria": "Fitness"
+    },
+    {
+      "id": 5,
+      "nombre": "Cajón De Salto Reforzado 3 Alturas 30x40x50",
+      "precio": "$26,000.00",
+      "descripcion": "CAJON DE SALTO 30x40x50 REFORZADO.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2023/05/D_NQ_NP_2X_603581-MLA74724698880_032024-F.webp?fit=1012%2C917&ssl=1",
+      "stock": 10,
+      "categoria": "Fitness"
+    },
+    {
+      "id": 6,
+      "nombre": "Guantes De Gimnasio De Cuero Mir",
+      "precio": "$21,900.00",
+      "descripcion": "Guantes de gimnasio.",
+      "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/Guantes-de-Cuero-Negro.jpg?fit=1080%2C1250&ssl=1",
+      "stock": 10,
+      "categoria": "Fitness"
+    },
+    
+        {
+          "id": 7,
+          "nombre": "Guantes De Gimnasio De Cuero Mir",
+          "precio": "$18,900.00",
+          "descripcion": "-Resistente al agua.\n-Ideal para deportes acuáticos\n-Tejido de rayón sintético\n-Rollo continuo de algodón",
+          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2023/10/d3-Tape-X"
+        },
+        {
+          "id": 8,
+          "nombre": "CAPSULA MASAJEADORA CON GEL",
+          "Precio": "$16,300.00",
+          "Descripcion": "Capsula masajeadora",
+          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/image_9d71ecd3-5a2c-47a4-a60c-9e1abb1da562.jpg?fit=1411%2C2526&ssl=1",
+          "stock": 10,
+          "categoria": "Rehabilitacion"
+        },
+        {
+          "id": 9,
+          "nombre": "Almohadilla de gel frío calor 24 cm X 24 cm",
+          "Precio": "$5,900.00",
+          "Descripcion": "Para zonas grandes o muy inflamadas, como por ejemplo; espalda, hombros, muslo, etc. Gel potenciado, mantiene más tiempo la temperatura. Material de dos compuestos para darle mayor resistencia.",
+          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/unnamed.jpg?w=364&ssl=1",
+          "stock": 10,
+          "categoria": "Rehabilitacion"
+        }
+      ]
+      
