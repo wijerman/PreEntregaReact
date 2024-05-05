@@ -56,24 +56,18 @@
     
         {
           "id": 7,
-          "nombre": "Guantes De Gimnasio De Cuero Mir",
-          "precio": "$18,900.00",
-          "descripcion": "-Resistente al agua.\n-Ideal para deportes acuáticos\n-Tejido de rayón sintético\n-Rollo continuo de algodón",
-          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2023/10/d3-Tape-X"
+          "nombre": "Kettlebell Plástica 3kg",
+          "precio": "$6,500.00",
+          "descripcion": "Plástica 3kg",
+          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/Kettlebell-Plastica-3-Kg-1.jpg?fit=1080%2C1250&ssl=1"
         },
+
+      
         {
           "id": 8,
-          "nombre": "CAPSULA MASAJEADORA CON GEL",
-          "Precio": "$16,300.00",
-          "Descripcion": "Capsula masajeadora",
-          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/image_9d71ecd3-5a2c-47a4-a60c-9e1abb1da562.jpg?fit=1411%2C2526&ssl=1",
-          "stock": 10,
-          "categoria": "Rehabilitacion"
-        },
-        {
-          "id": 9,
-          "nombre": "Almohadilla de gel frío calor 24 cm X 24 cm",
-          "Precio": "$5,900.00",
+          "nombre": "Almohadilla de gel frío calor",
+
+          "precio": "$6,500.00",
           "Descripcion": "Para zonas grandes o muy inflamadas, como por ejemplo; espalda, hombros, muslo, etc. Gel potenciado, mantiene más tiempo la temperatura. Material de dos compuestos para darle mayor resistencia.",
           "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/unnamed.jpg?w=364&ssl=1",
           "stock": 10,

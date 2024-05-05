@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const ItemCount = ({ stock }) => {
+const ItemCount = ({stock}) => {
   const [contador, setContador] = useState(1);
   const [itemStock, setItemStock] = useState(stock);
 
