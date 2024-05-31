@@ -1,22 +1,27 @@
 import { useEffect, useState } from "react";
-import arrayProductos from "./json/productos.json";
+//import arrayProductos from "./json/productos.json";
 import ItemList from "./ItemList";
+import { collection, getDocs, getFirestore, query, where } from "firebase/firestore";
+import { useParams } from "react-router-dom";
+import Loading from "./Loading";
 
 const ItemListContainer = ({}) => {
 const [items, setItems] = useState ([]);
+const [visible, setVisible] = useState(true);
+const {id} = useParams();
 
  useEffect(() => {
-  const promesa = new Promise(resolve => {
-    setTimeout(() => {
-      resolve(arrayProductos);
-    }, 2000)
-  }); 
+  const db = getFirestore();
+  const itemsCollection = collection(db, "items");
+  const queryCollection = id ? query(itemsCollection, where("categoria", "==", id)) : itemsCollection
+  getDocs(queryCollection).then(snapShot => {
+    if (snapShot.size > 0) {
+      setItems(snapShot.docs.map(item => ({id:item.id, ...item.data()})));
+      setVisible(false);
+    }
+  });
+ }, [id]);
 
-  
-  promesa.then(respuesta => {
-    setItems(respuesta); 
-  })
- }, [])
 
 
 
@@ -27,7 +32,7 @@ const [items, setItems] = useState ([]);
             
               
 
-                <ItemList items={items} />
+                {visible ? <Loading /> : <ItemList items={items} />}
                  
               </div>
 
