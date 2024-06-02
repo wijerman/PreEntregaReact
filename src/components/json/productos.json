@@ -6,7 +6,7 @@
       "descripcion": "Mesoterapia indolora por medio de crio electroforesis o jeringa virtual. Cabezal que produce frío o calor en combinación con corriente galvánica polarizada automáticamente.",
       "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/crio-iontoforesis.jpg?fit=800%2C585&ssl=1",
       "stock": 10,
-      "categoria": "Electromedicina"
+      "categoria": "Rehabilitacion"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "descripcion": "Equipo generador de ultrasonido de 38 kHz. Potencia 70W. Control de intensidad. Modo continuo o intermitente. Frecuencia fija o modulada. Display LED color de 5.7″ sensible al tacto Cavitex es el más poderoso equipo de la familia Texel, permite obtener en poco tiempo el mejor resultado en tratamientos anti-celulíticos y adiposidad localizada.",
       "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/cavitacion-ultrasonica.jpg?fit=800%2C585&ssl=1",
       "stock": 10,
-      "categoria": "Electromedicina"
+      "categoria": "Rehabilitacion"
     },
     {
       "id": 3,
@@ -59,7 +59,9 @@
           "nombre": "Kettlebell Plástica 3kg",
           "precio": "$6,500.00",
           "descripcion": "Plástica 3kg",
-          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/Kettlebell-Plastica-3-Kg-1.jpg?fit=1080%2C1250&ssl=1"
+          "imagen": "https://i0.wp.com/kine-shop.com.ar/wp-content/uploads/2022/06/Kettlebell-Plastica-3-Kg-1.jpg?fit=1080%2C1250&ssl=1",
+          "stock": 10,
+          "categoria": "Fitness"
         },
 
       
