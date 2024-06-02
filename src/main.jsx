@@ -21,7 +21,13 @@ const firebaseConfig = {
 // Initialize Firebase
 initializeApp(firebaseConfig);
 
-
+export default {
+  build: {
+    rollupOptions: {
+      external: ['firebase/app']
+    }
+  }
+}
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />
